@@ -1,0 +1,20 @@
+PODS:
+  - libjingle_peerconnection (11177.2.0)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - libjingle_peerconnection
+  - SocketRocket
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - libjingle_peerconnection
+    - SocketRocket
+
+SPEC CHECKSUMS:
+  libjingle_peerconnection: 3458f646ddd61f08a9f3a0c43fb01fff5c165eb8
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: e7357e2d0ff24559948ce39f8c00155d4f54f88d
+
+COCOAPODS: 1.5.2
